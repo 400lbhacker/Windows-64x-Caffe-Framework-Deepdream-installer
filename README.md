@@ -1,6 +1,6 @@
 # Windows-64x-Caffe-Framework-Deepdream-installer
 
-installer for complete caffe/pytorch deeplearning enviroment, designed to be as independant and self sufficient as possable, runs perfect even if fully offline since it includes everything it needs. (internet is required for initial installation)
+installer for complete caffe and pytorch deeplearning enviroment, designed to be as independant and self sufficient as possable, runs perfect even if fully offline since it includes everything it needs. (internet is required for initial installation). the caffe framework allows for older legacy codes / models to be fully compatable, and it runs projects very fast. we compliment it with pytorch for newer and advanced implimentations to provide the best of both worlds
 
 Simple installation pictorial is located here: https://docs.google.com/document/d/1XBctrqGxNFSnIeFpS5KilV7HHQnWDgUesHikJdtHRkM/edit
 
